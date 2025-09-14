@@ -1,4 +1,4 @@
-﻿# Ronny-Assistant-Using-Python-and-AWS-Cloud
+# Ronny-Assistant-Using-Python-and-AWS-Cloud
 ============================
 
 
@@ -63,8 +63,9 @@ To test the Bedrock Service Integration project, follow these steps:
 2. **Integration tests**: Run the integration tests by executing `python -m unittest discover -s tests/integration`.
 3. **End-to-end tests**: Run the end-to-end tests by executing `python -m unittest discover -s tests/end_to_end`.
 
-📸 Screenshots
+📸 video
 ----------------
+
 
 📦 API Reference
 -----------------
